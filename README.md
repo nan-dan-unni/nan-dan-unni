@@ -2,7 +2,7 @@
 
 # A S Nandanunni
 
-### Software Engineer · Frontend Lead & Backend Engineer @ FenixPyre
+### Software Engineer @ FenixPyre
 
 Full-stack engineer shipping zero-trust file security software, with a growing focus on applied AI. Currently solo-architecting **[Yigloo](https://yigloo.app)**, a multi-service personal-productivity platform, in my own time.
 
